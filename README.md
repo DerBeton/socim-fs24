@@ -4,7 +4,7 @@ This coding experiment was conducted during the SOCIM course in the Digital Idea
 
 ## Introduction
 
-The project involved developing a simple binary search tree in JavaScript, starting from an old Java implementation of the tree. Since my experience with object-oriented programming in JavaScript was limited, the initial translation introduced several bugs. This scenario provided a perfect opportunity to test Copilot's debugging capabilities. The code is available in the corresponding branches.
+The project involved developing a simple binary search tree in JavaScript, starting from an old Java implementation of the tree. Since my experience with object-oriented programming in JavaScript was limited, the initial translation introduced several bugs. This scenario provided a perfect opportunity to test Copilot's debugging capabilities. The code is available inside this repository.
 
 The goals for this project included:
 - Debugging
